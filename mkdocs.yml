@@ -1,0 +1,4 @@
+site_name: python手册
+repo_url: https://github.com/codepy/python_docs
+theme:
+  name: material
