@@ -1,4 +1,13 @@
 site_name: python手册
+repo_name : codepy/python_docs
 repo_url: https://github.com/codepy/python_docs
+edit_uri : blob/main/docs/
 theme:
   name: material
+  palette:
+    primary: 'teal'
+    accent: 'teal'
+  language: "zh"
+  features:
+    - content.action.edit
+#    - content.action.view
